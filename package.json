@@ -1,0 +1,14 @@
+{
+  "name": "simple-app",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "AutorJestJakiJest",
+  "description": "a simple app",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.11"
+  }
+}
